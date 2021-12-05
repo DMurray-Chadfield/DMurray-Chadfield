@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMurray-Chadfield
-- 👀 I’m interested in full stack engineerin.
+- 👀 I’m interested in full stack engineering.
 - 🌱 I’m currently learning front-end development as part of Codecademy's Full Stack career path.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: dan.chadfield@gmail.com
