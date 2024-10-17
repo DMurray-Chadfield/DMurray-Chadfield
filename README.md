@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DMurray-Chadfield
-- 👀 I’m interested in full stack engineering.
-- 🌱 I’m currently learning front-end development as part of Codecademy's Full Stack career path.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python or java development, and devops pipelines.
+- 🌱 I’m about to start a new job as Customer Software Engineering Sr. Analyst at Accenture
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: dan.chadfield@gmail.com
 
 <!---
